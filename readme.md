@@ -1,6 +1,6 @@
 # Introducción a CSS
 
-## Introduction
+## Introducción
 
 > Introducción sencilla y básica a CSS
 
