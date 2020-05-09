@@ -11,4 +11,4 @@
 
 > Simplemente, necesitaremos un editor de código, que será, por ejemplo, Visual Studio Code, y un navegador web, como puede ser Firefox. Opcionalmente, se puede usar un cliente git, como Smartgit o bitbucket para descargar los cambios que hayamos realizado en el repositorio (Nunca se podrá subir, sólo clonar el repositorio)
 
-<p><strong>Todos</strong> los archivos están hechos única y exclusivamente por mí</p>
+<p><strong>Todos</strong> los ejemplos están hechos y diseñados única y exclusivamente por mí, y cualquier posible parecido con alguna web de la realidad es pura coincidencia</p>
