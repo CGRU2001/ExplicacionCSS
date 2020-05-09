@@ -1,0 +1,60 @@
+/*
+
+    Colores: 
+
+    Existen varios tipos, rgb, rgba, html(hexadecimal)...
+
+    Un link a una paleta que puede ayudar a generar colores: https://htmlcolorcodes.com/es/
+
+    Tenemos principalmente dos propiedades fundamentales para los colores:
+
+    color: (color); -> Establece el color de realce de un elemento. Esto se traduce, por ejemplo, en un texto, darle color al mismo
+    background-color: (color); -> Establece un color de fondo a un elemento, como por ejemplo, el fondo de un elemento
+
+    IMPORTANTÍSIMO: En CSS, todas las sentencias se escriben de la siguiente forma:
+
+    parámetro: valor;
+
+    Todas las sentencias acabarán en ;
+
+
+*/
+
+p{
+    /*Introduce tu bloque de código aquí*/
+}
+
+/*
+    Selectores.
+
+    Hay de muchos tipos, están los selectores globales, los selectores anidados, los selectores directos '>' y los de agregación '+'. Un ejemplo sería, por ejemplo,
+
+    De selector global:
+
+    p{
+        bloque de código
+    }
+
+    De selectores anidados:
+
+    header a{
+        bloque de código
+    }
+
+    selectores directos:
+
+    header > a{
+        Bloque de código. Sólo las a que estén dentro de los header, cogerán estas propiedades
+    }
+
+    header a + img{
+        Bloque de código. Las etiquetas a y img tendrán estas propiedades
+    }
+
+    class e id
+
+    En un html, podemos tener etiquetas con class e id.
+
+    Una clase (class) es un tipo de elemento. podemos tener, por ejemplo muchos div class="container" en el código html, sin embargo, id, podemos tener sólo 1. No podemos tener, por ejemplo, muchos div id="container", porque sería un error y el estándar html5 nos gritaría.
+
+*/
